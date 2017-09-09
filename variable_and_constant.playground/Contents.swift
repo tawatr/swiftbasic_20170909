@@ -13,4 +13,17 @@ nameString="Doraemon"
 // Constant
 let surnameString = "ABCD"
 
-//surnameString="EFGH" 
+//surnameString="EFGH"
+
+
+// Printing
+print( "nameString: \(nameString)")
+
+
+let number1AInt = 5
+let number2AInt: Int = 10   // Explicit declaration for integer
+
+let answer = number1AInt + number2AInt
+
+print( "Answer: \(answer)")
+
